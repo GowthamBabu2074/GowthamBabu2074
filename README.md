@@ -7,8 +7,7 @@
   - ✏️ [Medium](https://medium.com/@amburisgbabu)
   - ✉️ amburisgbabu@gmail.com
 - 💼 I’m currently working as an Data Science Intern at Innomatics Research Labs
-- 👨‍🏫 I like to teach what i know in form of videos or blogs. My machine course:- (https://atharvaguru.com/courses/introduction-to-machine-learning/)
+- 👨‍🏫 I like to teach what i know in form of videos or blogs. [My begineer friendly Machine Learning course] (https://atharvaguru.com/courses/introduction-to-machine-learning/)
 
 [![Kanav's github stats](https://github-readme-stats.vercel.app/api?username=GowthamBabu2074&count_private=true&show_icons=true&theme=dracula&hide_rank=false)](https://github.com/GowthamBabu2074?tab=repositories)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GowthamBabu2074)](https://github.com/GowthamBabu2074?tab=repositories)

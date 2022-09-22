@@ -8,5 +8,5 @@
   - ✉️ amburisgbabu@gmail.com
 - 👨‍🏫 I like to teach what i know in form of videos or blogs. [My begineer friendly Machine Learning course](https://atharvaguru.com/courses/introduction-to-machine-learning/)
 
-[![Gowtham's github stats](https://github-readme-stats.vercel.app/api?username=GowthamBabu2074&count_private=true&show_icons=true&theme=dracula&hide_rank=false)](https://github.com/GowthamBabu2074?tab=repositories)
+<!--- [![Gowtham's github stats](https://github-readme-stats.vercel.app/api?username=GowthamBabu2074&count_private=true&show_icons=true&theme=dracula&hide_rank=false)](https://github.com/GowthamBabu2074?tab=repositories)--->
 
